@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeevitha-E8
 - 👀 I’m interested in IT Sector
-- 🌱 I’m currently learning Angular
+<!-- - 🌱 I’m currently learning Angular -->
 <!-- - 💞️ I’m looking to collaborate on  -->
 <!-- - 📫 How to reach me  -->
 
